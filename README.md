@@ -7,6 +7,6 @@ Demo list
 ---------
 
  * [Norwegian EMC to Finnish EMP](EMREX_demo_norwegian_EMC_to_finnish_EMP.md)
- * [Custom EMC to Norwegian EMC](How_to_demo_your_EMC_from_the_Norwegian_Emrex.md)
+ * [Custom EMP from Norwegian Emrex test client](How_to_demo_your_EMP_from_the_Norwegian_Emrex.md)
  * [EMC to Norwegian EMP](Using_the_Norwegian_EMP_to_test_your_EMC.md)
  
