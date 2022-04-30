@@ -1,4 +1,4 @@
-How to demo your EMC from the Norwegian EMREX-test
+How to demo your EMP from the Norwegian EMREX-test
 ==================================================
 
 1 Go to EMREX-test and select what instance you want to test
