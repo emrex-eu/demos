@@ -12,7 +12,7 @@ There are 3 openly available test users to use freely. These test users are avai
 | Username         | Password | Norwegian national identifier |
 |------------------|----------|-------------------------------|
 | ann_elevg        | 1qaz     | 10010277030                   |
-| bjorg_laererg    | 2wsx-    | 18048413567                   |
+| bjorg_laererg    | 2wsx     | 18048413567                   |
 | daniel_laerervgs | 4rfv     | 28017820933                   |
 
 Step 1. Logging in
