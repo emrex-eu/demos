@@ -11,7 +11,6 @@ There are 3 openly available test users to use freely. These test users are avai
 
 | Username         | Password | Norwegian national identifier |
 |------------------|----------|-------------------------------|
-| ann_elevg        | 1qaz     | 10010277030                   |
 | bjorg_laererg    | 2wsx-    | 18048413567                   |
 | daniel_laerervgs | 4rfv     | 28017820933                   |
 
@@ -21,7 +20,7 @@ When redirected to the Norwegian EMP (Vitnemålsportalen) you will be offered tw
 
 ![Architecture](images/image201.png)
  
-Click the link “Log in using Feide” and you will be redirected to the Feide login page where you will click the button “Feide test users” or search for the affiliation “Service Provider”.
+Click the link “Log in using Feide” and you will be redirected to the Feide login page where you will click the button “Feide service providers” or search for the affiliation “Feide service providers”.
 
 ![Architecture](images/image202.png)
  
