@@ -9,10 +9,11 @@ Test users
 ----------
 There are 3 openly available test users to use freely. These test users are available to everyone using Vitnemålsportalen (the Norwegian EMP) so the data of these users might change from day to day or even disappear entirely from one day to the next.
 
-| Username         | Password | Norwegian national identifier |
-|------------------|----------|-------------------------------|
-| bjorg_laererg    | 2wsx     | 18048413567                   |
-| daniel_laerervgs | 4rfv     | 28017820933                   |
+| Username            | Password | Norwegian national identifier |
+|---------------------|----------|-------------------------------|
+| aaselaila789student | 098asd   | 01826199624                   |
+| bengt789student     | 098asd   | 01815895963                   |
+| biri789student      | 098asd   | 01820798372                   |
 
 Step 1. Logging in
 ------------------
