@@ -8,19 +8,20 @@ Note that this document utilizes pre-production environments and can change and 
 
 Log in to the client
 --------------------
-Go to https://fs-demo.uio.no/studentweb/login.jsf?inst=FSUTV. You can change the language of the site if necessary. To change language, look for the dropdown menu on the top right of the application. Find the login option “Feide” and click the link “Log in using Feide.”
+Go to https://fs-demo.uio.no/studentweb/login.jsf?inst=FSUTV. You can change the language of the site if necessary. To change language, look for the dropdown menu on the top right of the application.
+We currently don't have any test users avalible to log in through Feide or any other login solutions. We do however have a dropdown list of test users that can be used.
 
-![Architecture](images/image1.png)
+![Architecture](images/login-selection.png)
  
-You will be redirected to Feide. If not pre-selected, choose the affiliation “Service Provider” and type in the username and password and click “Log in”:  
-- Username: bjorg_laererg  
-- Password: 2wsx
+Clicking on the drop-down menu will give you a list of test users.
 
-<img src="images/image2.png" style="width: 300px">
+![Architecture](images/login-dropdown.png)
+
+You can use any one of the test users to complete this demo.
 
 Starting the process of importing your results
 ----------------------------------------------
-Once redirected back to StudentWeb, look at the footer of the application and click the link “Import of results from abroad.”
+Once logged in, look at the footer of the application and click the link “Import of results from abroad.”
 
 ![Architecture](images/image3.png)
 
