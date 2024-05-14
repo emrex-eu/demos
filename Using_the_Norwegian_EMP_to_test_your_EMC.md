@@ -25,7 +25,7 @@ When redirected to the Norwegian EMP (Vitnemålsportalen) you will be offered tw
 
 ![Architecture](images/image201.png)
  
-Click the link “Log in using Feide” and you will be redirected to the Feide login page where you will click the button “Feide service providers” or search for the affiliation “Feide service providers”.
+Click the link “Log in using Feide” and you will be redirected to the Feide login page where you will click the button “Feide test users” or search for the affiliation “Feide test users”.
 
 ![Architecture](images/image202.png)
  
