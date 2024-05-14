@@ -5,6 +5,10 @@ Introduction
 ------------
 This document will detail how to use the Norwegian EMP to test you own EMC. Note that this will only detail how to use the Norwegian EMP, not the entire EMREX process. To see a full demo of the entire process start to finish, look at the document EMREX_demo_norwegian_EMC_to_finnish_EMP.
 
+The diplomaPortal
+----------
+In this demo we are using the test instance of the diploma portal: [https://vip-test.uio.no/vp/login](https://vip-test.uio.no/vp/login).
+
 Test users
 ----------
 There are 3 openly available test users to use freely. These test users are available to everyone using Vitnemålsportalen (the Norwegian EMP) so the data of these users might change from day to day or even disappear entirely from one day to the next.
