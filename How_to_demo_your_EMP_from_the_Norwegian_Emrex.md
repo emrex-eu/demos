@@ -3,7 +3,7 @@ How to demo your EMP from the Norwegian EMREX-test
 
 1 Go to EMREX-test and select what instance you want to test
 --------------------------------------------------------------
-Go to [https://emrex-test.paas2.uninett.no/emrextest](https://emrex-test.paas2.uninett.no/emrextest) where you will be met by the page shown below. Select one of the 5 available options *Custom*, *From Emreg-prod*, *From Emreg-test*, *From Emreg-xmlTest*, *From Emreg-xmlProd*. 
+Go to [https://emrex-test.fsweb.no/emrextest](https://emrex-test.fsweb.no/emrextest) where you will be met by the page shown below. Select one of the 5 available options *Custom*, *From Emreg-prod*, *From Emreg-test*, *From Emreg-xmlTest*, *From Emreg-xmlProd*. 
 
 ![Architecture](images/image101.png)
  
